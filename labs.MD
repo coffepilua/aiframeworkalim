@@ -5,8 +5,8 @@ https://colab.research.google.com/drive/12CRtYY9vfq19aXzXCt13zcwGqpl44TKV
 
 lab2:https://colab.research.google.com/drive/1h3PM8iy5mQcX08VfWEFA2-otz4h4FP_F
 
-lab3:https://colab.research.google.com/drive/1jA1rYtFbK_MhapBIBDq6wpsHAyEoirsH
+lab3 8/10/26:https://colab.research.google.com/drive/1jA1rYtFbK_MhapBIBDq6wpsHAyEoirsH
 ai helped a really bit with this one
 
-lab4:https://colab.research.google.com/drive/1nQCg0gohXl-Vn18n29httTwqSmmeGkdM
+lab4. 15/10/26:https://colab.research.google.com/drive/1nQCg0gohXl-Vn18n29httTwqSmmeGkdM
 no ai this time, only teamwork with my classmate
